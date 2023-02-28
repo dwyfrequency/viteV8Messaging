@@ -39,7 +39,7 @@ document.body.appendChild(component());
 document.body.appendChild(getFirebaseToken());
 
 /**
-jackdwyer@jackdwyer-macbookpro2 ~/Developer/vite/messaging-bundle-7063-v8 -  (main) $ yarn build
+ ~/Developer/vite/messaging-bundle-7063-v8 -  (main) $ yarn build
 yarn run v1.22.19
 $ vite build
 vite v4.1.4 building for production...
